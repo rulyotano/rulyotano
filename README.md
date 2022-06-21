@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulyotano&layout=compact&hide=html,less,css&langs_count=8)](https://github.com/rulyotano/github-readme-stats)
 
+[![trophy](https://github-profile-trophy-rust.vercel.app/?username=rulyotano&theme=darkhub)](https://github.com/rulyotano/github-profile-trophy)
+
 <!--
 **rulyotano/rulyotano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
