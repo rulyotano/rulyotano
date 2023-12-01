@@ -13,11 +13,11 @@ Let's collaborate and build amazing software together!
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![K8s](https://img.shields.io/badge/-K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulyotano&show_icons=true&theme=radical&count_private=true)](https://github.com/rulyotano/github-readme-stats)
 
 <!--### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulyotano&show_icons=true&theme=radical&count_private=true)](https://github.com/rulyotano/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulyotano&layout=compact&hide=html,less,css&langs_count=8)](https://github.com/rulyotano/github-readme-stats)
 
